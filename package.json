@@ -1,0 +1,25 @@
+{
+  "name": "web1_html_internet-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meeny-miny-moe/nodejs_webpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meeny-miny-moe/nodejs_webpage/issues"
+  },
+  "homepage": "https://github.com/meeny-miny-moe/nodejs_webpage#readme",
+  "dependencies": {
+    "sanitize-html": "^2.7.0"
+  }
+}
