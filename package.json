@@ -1,7 +1,7 @@
 {
   "name": "web1_html_internet-master",
   "version": "1.0.0",
-  "description": "",
+  "description": "nodejs를 이용한 기본 웹페이지 생성",
   "main": "main.js",
   "directories": {
     "lib": "lib"
